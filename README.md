@@ -1,1 +1,2 @@
-# Tugas-3---Logika-Fuzzy
+Fauzan Al Ashar
+E1E120067
